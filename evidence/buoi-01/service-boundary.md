@@ -2,10 +2,10 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
-- Lớp:
-- Thành viên:
-- Service nhóm phụ trách:
+- Tên nhóm: Nhóm 3
+- Lớp: CNTT17-12
+- Thành viên: Lê Tiến Được, Phạm Đình Tuấn Anh, Nguyễn Xuân Hiệp, Nguyễn Văn Thống
+- Service nhóm phụ trách: Access Gate
 - Sản phẩm tổng thể của lớp:
 
 ## 2. Actor
